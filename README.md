@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OrangeBellyJuice
-- 👀 I’m interested in data science, machine learning, and problem-solving.
-- 🌱 I’m currently learning Python and all of its libraries related to data science. As of writing this, I am looking into NumPy, Matplotlib, and pandas.
+- 👀 I’m interested in data analysis, communicating to businesses, and probelm-solving.
+- 🌱 I’m currently learning data analysis and visualisation in Excel, statistics, and wrapping up a SQL project. 
 - 💞️ I’m looking to finish some Python projects and Kaggle competitions.
 - 📫 How to reach me at preetpal.singh.grewal@hotmail.ca
 
